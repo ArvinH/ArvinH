@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hi](./img/ArvinH.gif)
+![Hi](./img/ArvinH-v2.gif)
