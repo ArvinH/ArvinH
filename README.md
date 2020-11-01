@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./img/ArvinH-v3.gif" style="height: 300px" />
+<div style="width: 100%; display: flex; justify-content: center; background: #F9F9F9">
+  <img src="http://i.imgur.com/nPOwjkxh.gif" style="height: 300px" />
+</div>
